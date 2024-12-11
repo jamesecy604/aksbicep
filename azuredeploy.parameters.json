@@ -8,7 +8,7 @@
     "sshRSAPublicKey": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/sshRSAPublicKey"
+          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/kbtestrg"
         },
         "secretName": "sshRSAPublicKey"
       }
@@ -16,7 +16,7 @@
     "servicePrincipalClientId": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/servicePrincipalClientId"
+          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/kbtestrg"
         },
         "secretName": "servicePrincipalClientId"
       }
@@ -24,7 +24,7 @@
     "servicePrincipalClientSecret": {
       "reference": {
         "keyVault": {
-          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/servicePrincipalClientSecret"
+          "id": "/subscriptions/6165661e-1b09-4e2b-bda0-f2e372cce272/resourceGroups/kbtestrg/providers/Microsoft.KeyVault/vaults/kbtestrg"
         },
         "secretName": "servicePrincipalClientSecret"
       }
