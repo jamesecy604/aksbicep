@@ -20,7 +20,7 @@ param servicePrincipalClientSecret string
 
 // Optional params
 @description('The region to deploy the cluster. By default this will use the same region as the resource group.')
-param location string = resourceGroup().location
+param location string = 'australiacentral'
 
 @minValue(0)
 @maxValue(1023)
