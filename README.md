@@ -1,6 +1,6 @@
 ## aksbicep
 
-An example to create an AKS cluster with secrets from Azure Key Vault with Bicep and GitHub actions.  Once the cluster is created, the workflow will apply `manifests/deployment.yml` that's a pre-created image.
+An example ggto create an AKS cluster with secrets from Azure Key Vault with Bicep and GitHub     vbnvactions.  Once the cluster is created, the workflow will apply `manifests/deployment.yml` that's a pre-created image.
 
 [Bicep](https://cda.ms/2nH) is a domain-specific language (DSL) that uses declarative syntax to deploy Azure resources. It provides concise syntax, reliable type safety, and support for code reuse. We believe Bicep offers the best authoring experience for your infrastructure-as-code solutions in Azure.
 
